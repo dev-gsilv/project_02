@@ -1,6 +1,6 @@
 /*
 Mentoria 2023
-Api with framework
+Api with Express
 */
 
 const express = require('express');
